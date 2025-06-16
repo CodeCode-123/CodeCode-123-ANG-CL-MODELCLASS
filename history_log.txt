@@ -1,7 +1,7 @@
-commit cb3966d46d47a4a812174869f5857ccaac3af847
+commit 3f5ae0cd3fb552535bb07f95b3858c3bd6121505
 Author: Shen Tang <adatang23@yahoo.com>
-Date:   Mon Jun 16 18:38:38 2025 +0000
+Date:   Mon Jun 16 18:38:51 2025 +0000
 
     completed the Angular - Model Class Lab
 
- 1 file changed, 7 insertions(+)
+ 1 file changed, 3 insertions(+), 3 deletions(-)
